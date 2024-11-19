@@ -45,4 +45,10 @@
     <a href="https://stimulus.hotwired.dev/">
         <img src="https://img.shields.io/badge/Stimulus-%23EAB8C9.svg?style=for-the-badge&logo=stimulus&logoColor=black" />
     </a>
+    <a href="https://www.gnu.org/software/bash/manual/bash.html">
+        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </a>
+    <a href="https://hotwired.dev/">
+        <img src="https://img.shields.io/badge/Hotwire-%23EAB8C9.svg?style=for-the-badge&logo=hotwire&logoColor=black"/>
+    </a>
 </div>
