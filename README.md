@@ -39,15 +39,19 @@
     <a href="https://cloud.yandex.com/en-ru">
         <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=yandex"/>
     </a>
+    <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    </a>
+    <a href="https://kubernetes.io/">
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    </a>
 </div>
 
             </a>
             <a href="#">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
             </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-            </a>
+
             <a href="https://www.typescriptlang.org/">
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
             </a>
