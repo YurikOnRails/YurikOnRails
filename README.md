@@ -28,6 +28,9 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         </a>
+        <a href="https://redis.io/">
+            <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        </a>
     </div>
     <div style="display: flex; margin: 5px;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
