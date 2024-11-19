@@ -39,8 +39,8 @@
         <a href="https://cloud.yandex.com/en-ru/docs/">
             <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=yandex"/>
         </a>
-        <a href="https://docs.docker.com/">
-            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <a href="https://www.gnu.org/software/bash/manual/bash.html">
+            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
         </a>
     </div>
     <div style="display: flex; margin: 5px;">
@@ -50,8 +50,8 @@
         <a href="https://stimulus.hotwired.dev/">
             <img src="https://img.shields.io/badge/Stimulus-%23EAB8C9.svg?style=for-the-badge&logo=stimulus&logoColor=black" />
         </a>
-        <a href="https://www.gnu.org/software/bash/manual/bash.html">
-            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        <a href="https://docs.docker.com/">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
         </a>
         <a href="https://hotwired.dev/">
             <img src="https://img.shields.io/badge/Hotwire-%23EAB8C9.svg?style=for-the-badge&logo=hotwire&logoColor=black"/>
