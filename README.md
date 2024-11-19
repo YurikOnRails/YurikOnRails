@@ -61,4 +61,8 @@
         </a>
     </div>
 </div>
+    </section>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyrk&theme=blue-green"/>
+</article>
 
