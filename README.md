@@ -12,7 +12,7 @@
     </section>
     <br>
     <section>
-        <h4>What I want to learn</h4>
+        <h4>I am currently studying technology</h4>
         <div style="display: flex">
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
