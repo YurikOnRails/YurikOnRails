@@ -12,7 +12,7 @@
     </section>
     <br>
     <section>
-        <h4>What i want to know </h4>
+        <h4>What I want to learn</h4>
         <div style="display: flex">
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -91,7 +91,7 @@
         </div>
     </section>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0stfree&theme=blue-green"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyrk&theme=blue-green"/>
 </article>
 <!--
 **yyyrk/yyyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
