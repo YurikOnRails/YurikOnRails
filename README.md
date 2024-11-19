@@ -3,7 +3,7 @@
 
 <article>
     <section>
-        <h3>And also I want to be Full stack Ruby on Rails developer</h3>
+        <h3>And also I want to try create web app like a Full stack Ruby on Rails developer</h3>
         <a href="https://www.codewars.com/users/yurjo7">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/yurjo7/badges/small"/>
