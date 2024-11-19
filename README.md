@@ -4,7 +4,7 @@
 
 <article>
     <section>
-        <h3>I want to study technology as a Ruby on Rails developer</h3>
+        <h3>I want to study some technologies as a Ruby on Rails developer</h3>
         <a href="https://www.codewars.com/users/yurjo7">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/yurjo7/badges/small"/>
