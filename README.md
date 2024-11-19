@@ -8,9 +8,6 @@
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/yurjo7/badges/small"/>
         </a>
-        <a href="https://leetcode.com/yurjo7/">
-            <img title="LeetCode Profile"
-                 src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow"/>
         </a>
     </section>
     <br>
