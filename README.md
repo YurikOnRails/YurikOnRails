@@ -8,14 +8,14 @@
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/yurjo7/badges/small"/>
         </a>
-        <a href="https://leetcode.com/Fr0stFree/">
+        <a href="https://leetcode.com/yurjo7/">
             <img title="LeetCode Profile"
                  src="https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFr0stFree&logo=leetcode&logoColor=yellow"/>
         </a>
     </section>
     <br>
     <section>
-        <h4>What i </h4>
+        <h4>What i want to know </h4>
         <div style="display: flex">
             <a href="https://www.python.org/">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
