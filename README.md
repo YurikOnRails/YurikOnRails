@@ -13,7 +13,7 @@
     </section>
     <br>
     <section>
-        <h4>I am currently studying these technologies</h4>
+        <h4>I am currently studying these technologies:</h4>
        <div style="display: flex; flex-wrap: wrap;">
     <div style="display: flex; margin: 5px;">
         <a href="https://www.ruby-lang.org/en/documentation/">
