@@ -22,9 +22,6 @@
         <a href="https://guides.rubyonrails.org/">
             <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" />
         </a>
-        <a href="https://rspec.info/">
-            <img src="https://img.shields.io/badge/rspec-%234B8DBA.svg?style=for-the-badge&logo=rspec&logoColor=white"/>
-        </a>
         <a href="https://www.postgresql.org/docs/">
             <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
         </a>
@@ -33,6 +30,9 @@
         </a>
         <a href="https://redis.io/docs/latest/">
             <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        </a>
+        <a href="https://rspec.info/">
+            <img src="https://img.shields.io/badge/rspec-%234B8DBA.svg?style=for-the-badge&logo=rspec&logoColor=white"/>
         </a>
     </div>
     <div style="display: flex; margin: 5px;">
