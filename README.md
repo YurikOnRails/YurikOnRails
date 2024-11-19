@@ -16,10 +16,10 @@
         <h4>I am currently studying these technologies:</h4>
        <div style="display: flex; flex-wrap: wrap;">
     <div style="display: flex; margin: 5px;">
-        <a href="https://www.ruby-lang.org/en/documentation/">
+        <a href="https://ruby-doc.org/3.3.5/">
             <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
         </a>
-        <a href="https://rubyonrails.org/docs">
+        <a href="https://guides.rubyonrails.org/">
             <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" />
         </a>
         <a href="https://www.postgresql.org/docs/">
@@ -28,7 +28,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         </a>
-        <a href="https://redis.io/">
+        <a href="https://redis.io/docs/latest/">
             <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
         </a>
     </div>
