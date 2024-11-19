@@ -4,7 +4,7 @@
 
 <article>
     <section>
-        <h3>And also I want to try create web app like a Full stack Ruby on Rails developer</h3>
+        <h3>I want to study technology as a Ruby on Rails developer</h3>
         <a href="https://www.codewars.com/users/yurjo7">
             <img title="CodeWars Profile"
                  src="https://www.codewars.com/users/yurjo7/badges/small"/>
@@ -13,10 +13,34 @@
     </section>
     <br>
     <section>
-        <h4>I am currently studying technology</h4>
+        <h4>I am currently studying these technologies</h4>
         <div style="display: flex">
-            <a href="https://www.python.org/">
-                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <a href="">
+        <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </a>
+    <a href="https://cloud.yandex.com/en-ru">
+        <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=yandex"/>
+    </a>
+</div>
+
             </a>
             <a href="#">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
