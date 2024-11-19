@@ -1,5 +1,6 @@
-## Hi there 👋I'm SCADA/PLC developer. I'm currently learning ruby 🔴 for fun and I also want to create a useful digital service for our profession🙂👍
-
+## Hi 👋, I'm Andrew 🧗‍♂️I'm SCADA/PLC developer.
+ 
+ I'm currently learning ruby 🔴 for fun and I also want to create a useful digital service for our profession🙂👍
 
 <article>
     <section>
