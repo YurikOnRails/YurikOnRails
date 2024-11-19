@@ -45,9 +45,6 @@
         <a href="https://cloud.yandex.com/en-ru/docs/">
             <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=yandex"/>
         </a>
-        <a href="https://www.gnu.org/software/bash/manual/bash.html">
-            <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-        </a>
     </div>
     <div style="display: flex; margin: 5px;">
         <a href="https://kubernetes.io/docs/home/">
