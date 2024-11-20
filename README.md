@@ -48,9 +48,6 @@
         <a href="https://cloud.yandex.com/en-ru/docs/">
             <img src="https://img.shields.io/badge/Yandex.Cloud-FC3F1D?&style=for-the-badge&logoColor=white&logo=yandex"/>
         </a>
-        <a href="https://guides.rubyonrails.org/action_cable_overview.html">
-           <img src="https://img.shields.io/badge/Action%20Cable-FF3E00?style=for-the-badge&logoColor=white&logo=rails"/>
-        </a>
     </div>
     <div style="display: flex; margin: 5px;">
         <a href="https://kubernetes.io/docs/home/">
@@ -64,6 +61,9 @@
         </a>
         <a href="https://hotwired.dev/">
             <img src="https://img.shields.io/badge/Hotwire-%23EAB8C9.svg?style=for-the-badge&logo=hotwire&logoColor=black"/>
+        </a>
+        <a href="https://guides.rubyonrails.org/action_cable_overview.html">
+           <img src="https://img.shields.io/badge/Action%20Cable-FF3E00?style=for-the-badge&logoColor=white&logo=rails"/>
         </a>
     </div>
 </div>
