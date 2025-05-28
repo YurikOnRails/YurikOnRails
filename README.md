@@ -67,11 +67,11 @@
         </a>
     </div>
     <div style="display: flex; margin: 5px;">
-        <a href="https://www.rabbitmq.com/">
-            <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-        </a>
         <a href="https://kafka.apache.org/">
             <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+        </a>
+        <a href="https://www.rabbitmq.com/">
+            <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
         </a>
         <a href="https://sidekiq.org/">
            <img src="https://img.shields.io/badge/sidekiq-%23FF0000.svg?style=for-the-badge&logo=sidekiq&logoColor=white"/>
